@@ -50,18 +50,6 @@ tenure, geography, and stated reason for leaving.
   offer" and "competitor had better devices" together account for about a
   third of all stated churn reasons, with support experience close behind.
 
-## Repo structure
-
-```
-databel-churn-analysis/
-├── README.md
-├── data/
-│   └── Databel_Churn_Analysis.xlsx   # source workbook: tables, pivots, dashboard
-└── assets/
-    ├── dashboard_screenshot.png      # static preview of the Overview dashboard
-    └── dashboard.html                # interactive HTML version of the dashboard
-```
-
 ## Tools & techniques
 
 Excel Tables · nested `IF()` formulas for segmentation · PivotTables · PivotCharts ·
@@ -69,4 +57,4 @@ one-page dashboard design
 
 ## Author
 
-Sharon Galela — SA Analytics Team
+Sharon Galela
