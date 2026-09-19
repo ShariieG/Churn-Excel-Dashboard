@@ -6,7 +6,8 @@ project turns a flat export of 6,687 customer records into a self-service
 workbook that surfaces where churn is happening and why — by contract type,
 tenure, geography, and stated reason for leaving.
 
-![Churn dashboard](assets/dashboard_screenshot.png)
+<img width="1451" height="853" alt="image" src="https://github.com/user-attachments/assets/0cc1bf70-a5b6-4af5-9982-926912b1586f" />
+
 
 ## Headline numbers
 
